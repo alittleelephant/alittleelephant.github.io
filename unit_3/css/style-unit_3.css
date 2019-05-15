@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fredericka+the+Great');
+
+h1 {font-family:'Fredericka the Great',sans-serif;
+      font-weight:bold;
+      font-size:80px;
+      text-align:center;
+     	}
+
+h2{font-family: 'Amatic SC',serif;
+font-weight:normal;
+font-size:1.5em;
+text-align: center;
+}
+
+h3{font-family: 'Amatic SC',serif;
+font-weight: bold;
+font-size: 2em;
+}
+
+P {font-family: 'Amatic SC',serif;
+font-weight:normal;
+font-size:2em;
+text-align:center;
+letter-spacing: 2px;
+
+ }
