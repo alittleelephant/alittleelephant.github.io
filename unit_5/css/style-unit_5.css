@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fredericka+the+Great');
+img{margin-right: : 35%;
+	margin-left: 35%;
+	display: block:
+	margin;0 auto
+}
+h1 {font-family:'Fredericka the Great',sans-serif;
+      font-weight:bold;
+      font-size:80px;
+      text-align:center;
+     	}
+section{padding: 0;
+	margin:0;
+	box-sizing:border-box}
+
+h2{font-family: 'Amatic SC',serif;
+font-weight:normal;
+font-size:1.5em;
+text-align: center;
+}
+
+h3{font-family: 'Amatic SC',serif;
+font-weight: bold;
+font-size: 2em;
+}
+
+p {font-family: 'Amatic SC',serif;
+font-weight:normal;
+font-size:2em;
+text-align:center;
+letter-spacing: 2px;}
+
+article_one{
+	padding:10px 0;
+box-sizing:border-box;
+width: 300px;
+height: 300px;
+
+}
+article_two{
+	padding:10px 0;
+	shape-margin: square;
+	margin:center;
+}
+ article_three{padding: 10px 0;
+ }
+ main{padding: 0
+ 	margin:0
+ 	box-sizing:border-box;}
+
+ 	footer{font-family: 'Amatic SC',serif;
+font-weight:normal;
+font-size:1.5em;
+text-align: center;
+ 		clear:both;
+ 		background-color:#eeeeee;
+ 		padding:20px;}
+ 	
