@@ -24,35 +24,63 @@ font-weight: bold;
 font-size: 2em;
 }
 
+figcaption{font-family: 'Amatic SC', serif;
+font-weight: normal;
+font-size: 2em }
+
 p {font-family: 'Amatic SC',serif;
 font-weight:normal;
 font-size:2em;
 text-align:center;
-letter-spacing: 2px;}
+letter-spacing: 2px;
+}
+
+li{font-family: 'Amatic SC',serif;
+font-weight:normal;
+font-size:1.5em;
+text-align: left;
+float:;
+}
 
 article_one{
-	padding:10px 0;
-box-sizing:border-box;
+	padding: 8em 0;
 width: 300px;
 height: 300px;
+}
+#article_one {float: left;
 
-}
 article_two{
-	padding:10px 0;
+	padding:10em 0;
 	shape-margin: square;
-	margin:center;
-}
+	}
+
  article_three{padding: 10px 0;
  }
+
  main{padding: 0
  	margin:0
- 	box-sizing:border-box;}
+ 	box-sizing:border-box;
+ 	float: right}
 
- 	footer{font-family: 'Amatic SC',serif;
+ footer {font-family: 'Amatic SC',serif;
 font-weight:normal;
 font-size:1.5em;
 text-align: center;
- 		clear:both;
+ 		clear: both;
  		background-color:#eeeeee;
  		padding:20px;}
+ nav {font-family: 'Amatic SC',serif;
+ 	text-align: center;
+ 	background-color: #eeeeee;
+ 	float:center;}
+ 
+ .clearfix:after {display:block;
+ 	conten:"";
+ 	clear:both;}
+
+ footer p{font-size:1em;
+ 	font-weight: bold;}
+
+ section figcaption{font-size: 1.5em}
+ 	
  	
