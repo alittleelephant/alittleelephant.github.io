@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fredericka+the+Great');
 @import {img src="images/childrenele2.jpg" alt="Drawing of an elephant balancing a child on her trunk who is gazing into the universe." title="Elephant and Child"}
 
@@ -168,4 +169,177 @@ article_two{
  	background-image: img src="images/childrenele2.jpg";
 
  }	
+=======
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fredericka+the+Great');
+@import {img src="images/childrenele2.jpg" alt="Drawing of an elephant balancing a child on her trunk who is gazing into the universe." title="Elephant and Child"}
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box
+}
+
+img{
+	/*margin-right: : 35%;
+	margin-left: 35%;
+	margin: 0*
+	display: block;
+	width: 100%*/
+}
+
+h1 {
+	font-family:'Fredericka the Great',sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    display:;
+ }
+
+section {
+	background-color:#FFE2B8;
+	border: 1px black solid;
+	padding: 20px
+	background-image: /childrenele2.JPG;
+	/*padding: 0;
+	margin: 0;
+	box-sizing:border-box*/
+}
+
+
+h2{
+	font-family: 'Amatic SC',serif;
+	font-weight: bold;
+	font-size: 3em;
+	text-align: center
+}
+
+
+h3{
+	font-family: 'Amatic SC',serif;
+	font-weight: bold;
+	font-size: 2em
+}
+
+figcaption{
+	font-family: 'Amatic SC', serif;
+	font-weight: normal;
+	font-size: 2em
+	float: left;
+	margin: 25px 50px;
+	padding: 10px
+ }
+
+p{
+	font-family: 'Amatic SC',serif;
+	font-weight: normal;
+	font-size: 2em;
+	text-align: center;
+	letter-spacing: 2px
+}
+
+#two_column {
+	background-color: #ffb7cf;
+	border: 1px black solid;
+	padding: 20px
+}
+
+#left{
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%
+}
+
+#right{
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0
+}
+
+header{
+	font-family: 'Amatic SC',serif;
+	font-weight: normal;
+	font-size: 2em;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px
+	color:  #000000;
+}
+
+li{
+	font-family: 'Amatic SC',serif;
+	font-weight: normal;
+	font-size: 2em;
+	text-align: left
+	/*float*/
+}
+
+/*article_one{
+	padding: 8em 0;
+	width: 300px;
+	height: 300px;
+}
+#article_one {float: left;}
+
+article_two{
+	padding:10em 0;
+	shape-margin: square;
+	}
+
+ article_three{padding: 10px 0;
+ }*/
+
+ main {
+ 	padding: 0;
+ 	margin: 0;
+ 	box-sizing:border-box;
+ 	float: right
+ }
+
+ footer {
+ 	font-family: 'Amatic SC',serif;
+	font-weight: normal;
+	font-size: 1.5em;
+	text-align: center;
+ 	clear: both;
+ 	background-color: #FF957E;
+ 	border: 1px black solid;
+ 	padding: 20px
+ }
+ 
+ nav {
+ 	font-family: 'Amatic SC',serif;
+ 	text-align: center;
+ 	background-color: #E8C66A;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ 	float: center
+ }
+ 
+  footer p {
+ 	font-size: 1em;
+ 	font-weight: bold
+ }
+
+ section figcaption {
+ 	font-size: 1.5em
+ }
+ 
+ section intro {
+ 	background-image: img src="images/childrenele2.jpg";
+
+ }	
+>>>>>>> b3f0463ee477a6e75a3c36437685ba602d635597
  	
